@@ -1,4 +1,4 @@
-# shared_calendar_app
+# flutter_study
 
 A new Flutter project.
 
