@@ -59,13 +59,11 @@ class _MyLargeTitleState extends State<MyLargeTitle> {
   @override
   void initState() {
     super.initState();
-    print('Hello!');
   }
 
   @override
   void dispose() {
     super.dispose();
-    print('dispose!');
   }
 
   @override
