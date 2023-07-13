@@ -1,4 +1,4 @@
-# flutter_study
+# ui_challenge
 
 A new Flutter project.
 
